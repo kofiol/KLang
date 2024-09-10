@@ -1,5 +1,5 @@
 # KLang
-**Some day I will make my own programming language and name it KLang...**
+## **Some day I will make my own programming language and name it KLang...**
 
-## But here is how I am planning "Hello World!" to look in it:
+**But here is how I am planning "Hello World!" to look in it:**
 
